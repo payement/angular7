@@ -4,11 +4,6 @@
       "type": "string",
       "required": true,
       "message": "Project Name"
-    },
-    "description": {
-      "type": "input",
-      "required": true,
-      "message": "Project Description"
     }
   },
   "completeMessage": "To get started:\n  cd {{name}}\n  npm install\n  npm start"
