@@ -8,7 +8,6 @@ import { Component } from '@angular/core';
         <h1>Hello Angular 7</h1>
         My name is {{name}}.
       </div>
-      <oneview-header></oneview-header>
     </div>`,
   styles: [`
     p {
